@@ -1,5 +1,11 @@
 # Interception-V2 PHP SDK
 
+<!-- simple-start:start -->
+Use Interception-V2 from a PHP app.
+
+**Start here.** Run `composer require titancsa/interception-v2`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Get the driver without the one-hour demo limit**
 >
